@@ -16,3 +16,9 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/viniCraveiro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniCraveiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniCraveiro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
